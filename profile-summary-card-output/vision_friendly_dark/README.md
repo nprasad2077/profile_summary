@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/nprasad2077/profile_summary/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    

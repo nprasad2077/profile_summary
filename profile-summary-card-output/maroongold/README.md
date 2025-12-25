@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/nprasad2077/profile_summary/master/profile-summary-card-output/maroongold/4-productive-time.svg)
+```
+
+    
